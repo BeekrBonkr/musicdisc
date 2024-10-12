@@ -1,0 +1,6 @@
+aiofiles==24.1.0
+discord.py==2.4.0
+PyYAML==6.0.2
+termcolor==2.5.0
+yt_dlp==2024.10.7
+PyNaCl
